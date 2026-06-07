@@ -1,0 +1,7 @@
+id=enable-usb-debbuging
+name=Enable ADB
+description=A simple module to enable USB debugging
+author=bernardo1928
+version=v1.0.0
+versionCode=1
+repository=https://github.com/bernardo58247/enable-adb
